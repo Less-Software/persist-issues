@@ -2,8 +2,8 @@
 name: Question
 about: Ask a question about Persist.app
 title: "[QUESTION] — "
-labels: ''
-assignees: ''
+labels: 'question'
+assignees: 'samleb'
 
 ---
 
